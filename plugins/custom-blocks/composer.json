@@ -1,0 +1,5 @@
+{
+    "require": {
+        "underpin/style-loader": "^1.1"
+    }
+}

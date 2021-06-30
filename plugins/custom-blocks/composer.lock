@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "cc57cce69bf38e8bbdf1676238c7663a",
+    "packages": [
+        {
+            "name": "underpin/style-loader",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Underpin-WP/style-loader.git",
+                "reference": "de86001135fcd18dc4222fed2db59a84d1abbe56"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Underpin-WP/style-loader/zipball/de86001135fcd18dc4222fed2db59a84d1abbe56",
+                "reference": "de86001135fcd18dc4222fed2db59a84d1abbe56",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "styles.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Alex Standiford",
+                    "email": "a@alexstandiford.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/Underpin-WP/style-loader/issues",
+                "source": "https://github.com/Underpin-WP/style-loader/tree/1.1.0"
+            },
+            "time": "2021-06-22T02:52:52+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
